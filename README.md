@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Developer 👩‍💻
 ------------------
 
-I started coding when I was sixteen and I've been coding ever since. I am a curious life-long learner and a die hard foodie 🌮!
+I started coding when I was sixteen and I've been coding ever since. I am a curious life-long learner and a die hard foodie! 🌮
 
 * 🌍  I'm based in Upstate New York
 * ✉️  You can contact me at [discordapp.com/users/911729578836373544](mailto:discordapp.com/users/911729578836373544)
