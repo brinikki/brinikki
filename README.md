@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Brianna Iwu
 ===================================================================================================================================
 
-Software Developer 👩‍💻
+Software Engineer 👩‍💻
 ------------------
 
 I started coding when I was sixteen and I've been coding ever since. I am a curious life-long learner and a die hard foodie! 🌮
