@@ -7,7 +7,7 @@ Software Engineer 👩‍💻
 I started coding when I was sixteen and I've been coding ever since. I am a curious life-long learner and a die hard foodie! 🌮
 
 * 🌍  I'm based in Upstate New York
-* ✉️  You can contact me at [discordapp.com/users/911729578836373544](mailto:discordapp.com/users/911729578836373544)
+* ✉️  You can contact me at [https://briannaiwu.com](mailto:discordapp.com/users/911729578836373544)
 * 🧠  I'm learning React and Three.js
 * 🤝  I'm open to collaborating on impactful projects
 * ⚡  A hotdog is a sandwich
